@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L3 - With Lambda Expression Thread ReadMe Update">
+    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L4 - With Lambda Expression Pojo Class Implmnt Compare Student Details">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/AddInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/AddInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassHelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassLambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassLambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassWithLambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassWithLambdaExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassWithoutLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassWithoutLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/HelloWorldInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/HelloWorldInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/ReadMeLambdaExpression" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/ReadMeLambdaExpression" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/DriverWithLambdaExpThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/DriverWithLambdaExpThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/DriverWithoutLambdaExpThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/DriverWithoutLambdaExpThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/ReadMeLambdaThread" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/ReadMeLambdaThread" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpOnPojo/LambdaStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpOnPojo/DriverLambdaStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +48,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/rajendragurjar/Desktop/SpringBootApp/Java8Features",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -172,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705527234533</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="L4 - With Lambda Expression Pojo Class Implmnt Compare Student Details">
+      <created>1705530736436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705530736436</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +211,7 @@
     <MESSAGE value="L2 - With Lambda Expression Arraylist" />
     <MESSAGE value="L3 - With Lambda Expression Thread" />
     <MESSAGE value="L3 - With Lambda Expression Thread ReadMe Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="L3 - With Lambda Expression Thread ReadMe Update" />
+    <MESSAGE value="L4 - With Lambda Expression Pojo Class Implmnt Compare Student Details" />
+    <option name="LAST_COMMIT_MESSAGE" value="L4 - With Lambda Expression Pojo Class Implmnt Compare Student Details" />
   </component>
 </project>

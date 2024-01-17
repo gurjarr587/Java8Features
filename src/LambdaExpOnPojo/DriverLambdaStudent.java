@@ -1,11 +1,10 @@
 package LambdaExpOnPojo;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-public class LambdaStudent {
+public class DriverLambdaStudent {
     public static void main(String[] args){
         List<StudentModel> studentModelList = new ArrayList<StudentModel>();
         studentModelList.add(new StudentModel(9,"ram"));
