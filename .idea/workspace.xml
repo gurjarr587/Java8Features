@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L2 - Functional Interface + Without Lambda Expression">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L2 - Functional Interface + With Lambda Expression String Hello World">
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/DriverClassHelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705513479330</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="L2 - Functional Interface + With Lambda Expression String Hello World">
+      <created>1705521791892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705521791892</updated>
+    </task>
+    <task id="LOCAL-00008" summary="L2 - Functional Interface + With Lambda Expression String Hello World">
+      <created>1705521808296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705521808297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +153,7 @@
     <MESSAGE value="L1 - Functional Interface" />
     <MESSAGE value="L1 - Functional Interface Deafult or Basic Methods" />
     <MESSAGE value="L2 - Functional Interface + Without Lambda Expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="L2 - Functional Interface + Without Lambda Expression" />
+    <MESSAGE value="L2 - Functional Interface + With Lambda Expression String Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="L2 - Functional Interface + With Lambda Expression String Hello World" />
   </component>
 </project>
