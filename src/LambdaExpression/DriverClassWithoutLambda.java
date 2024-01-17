@@ -1,7 +1,8 @@
 package LambdaExpression;
 
-public class DriverClass {
+public class DriverClassWithoutLambda {
     public static void main(String[] args ){
+        //Without Lambda Expression
         AddInterface addInterface = new AddInterface(){
              public void add(int a, int b){
                 System.out.println(a+b);
