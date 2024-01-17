@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L2 - Functional Interface + With Lambda Expression String Hello World">
+    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L2 - With Lambda Expression Arraylist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705521857667</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="L2 - With Lambda Expression Arraylist">
+      <created>1705524514693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705524514693</updated>
+    </task>
+    <task id="LOCAL-00011" summary="L2 - With Lambda Expression Arraylist">
+      <created>1705524525484</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705524525484</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +176,7 @@
     <MESSAGE value="L1 - Functional Interface Deafult or Basic Methods" />
     <MESSAGE value="L2 - Functional Interface + Without Lambda Expression" />
     <MESSAGE value="L2 - Functional Interface + With Lambda Expression String Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="L2 - Functional Interface + With Lambda Expression String Hello World" />
+    <MESSAGE value="L2 - With Lambda Expression Arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="L2 - With Lambda Expression Arraylist" />
   </component>
 </project>
