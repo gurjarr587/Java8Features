@@ -1,5 +1,4 @@
 Basic Syntax :
-
 (argument-list) -> {function-body}
 Where: Argument-list: It can be empty or non-empty as well.
 Arrow notation/lambda notation: It is used to link arguments-list and body of expression.
