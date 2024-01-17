@@ -1,4 +1,4 @@
-package LambdaExpression;
+package LambdaExpBasics;
 
 public class DriverClassWithLambdaExp {
     public static void main(String[] args){

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L3 - With Lambda Expression Thread">
+    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L3 - With Lambda Expression Thread ReadMe Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/AddInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/AddInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassLambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassLambdaExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassWithLambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassWithLambdaExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/DriverClassWithoutLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/DriverClassWithoutLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/HelloWorldInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/HelloWorldInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/ReadMeLambdaExpression" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpBasics/ReadMeLambdaExpression" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/DriverWithLambdaExpThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/DriverWithLambdaExpThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/DriverWithoutLambdaExpThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/DriverWithoutLambdaExpThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressionCreatingThread/ReadMeLambdaThread" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpCreatingThread/ReadMeLambdaThread" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705526745434</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="L3 - With Lambda Expression Thread ReadMe Update">
+      <created>1705527228280</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705527228280</updated>
+    </task>
+    <task id="LOCAL-00014" summary="L3 - With Lambda Expression Thread ReadMe Update">
+      <created>1705527234533</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705527234533</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +209,7 @@
     <MESSAGE value="L2 - Functional Interface + With Lambda Expression String Hello World" />
     <MESSAGE value="L2 - With Lambda Expression Arraylist" />
     <MESSAGE value="L3 - With Lambda Expression Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="L3 - With Lambda Expression Thread" />
+    <MESSAGE value="L3 - With Lambda Expression Thread ReadMe Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="L3 - With Lambda Expression Thread ReadMe Update" />
   </component>
 </project>

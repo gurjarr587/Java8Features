@@ -1,4 +1,4 @@
-package LambdaExpressionCreatingThread;
+package LambdaExpCreatingThread;
 
 public class DriverWithLambdaExpThread {
     public static void main(String[] args){

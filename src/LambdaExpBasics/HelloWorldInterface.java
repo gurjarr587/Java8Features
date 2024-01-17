@@ -1,4 +1,4 @@
-package LambdaExpression;
+package LambdaExpBasics;
 
 @FunctionalInterface
 public interface HelloWorldInterface {
