@@ -1,6 +1,6 @@
 package MethodReferences;
 
 @FunctionalInterface
-public interface MethodRefFunctionalInterface {
+public interface MethodRfrFunctionalInterface {
     void Display();
 }

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L6 - With Method References">
+    <list default="true" id="6e5a90a4-6d47-45f9-b2d6-ee8e661cc444" name="Changes" comment="L6 - With Method Reference to intance of method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaMethodReferences/LambdaMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReferences/MethodReferencetoStaticMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaMethodReferences/ReadMeLambdaMethodReferences" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReferences/ReadMeLambdaMethodReferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodReferences/MethodRefFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReferences/MethodRfrFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodReferences/MethodReferencetoInstanceofMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReferences/MethodRfrToInstanceofMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodReferences/MethodReferencetoStaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReferences/MethodRfrToStaticMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -188,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705608470138</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="L6 - With Method Reference to intance of method">
+      <created>1705610190931</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705610190931</updated>
+    </task>
+    <task id="LOCAL-00019" summary="L6 - With Method Reference to intance of method">
+      <created>1705610199528</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705610199528</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +244,7 @@
     <MESSAGE value="L4 - With Lambda Expression Pojo Class Implmnt Compare Student Details" />
     <MESSAGE value="L5 - With Lambda Expression &amp; Streaming" />
     <MESSAGE value="L6 - With Method References" />
-    <option name="LAST_COMMIT_MESSAGE" value="L6 - With Method References" />
+    <MESSAGE value="L6 - With Method Reference to intance of method" />
+    <option name="LAST_COMMIT_MESSAGE" value="L6 - With Method Reference to intance of method" />
   </component>
 </project>
