@@ -19,8 +19,8 @@ public class DriverLambdaStudentModel {
 //        for(StudentModel item:studentModelList){
 //            System.out.println(item.name);
 //        }
-
         //using foreach same for above
+
         filterData.forEach(x-> System.out.println(x.name));
     }
 }
