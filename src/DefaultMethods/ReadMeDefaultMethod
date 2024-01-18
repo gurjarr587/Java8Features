@@ -1,0 +1,2 @@
+Java default methods are defined inside the interface and tagged with default keyword. Default methods are non-abstract
+methods. We can override default methods to provide more specific implementation.
